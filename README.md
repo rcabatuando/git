@@ -4,6 +4,7 @@
 
 | Type      | Purpose                                                | Example Commit Message                                          |
 |-----------|--------------------------------------------------------|-----------------------------------------------------------------|
+| @init     | Initial project setup or scaffolding	                 | `@init: scaffold Vue 3 project with Vite + Tailwind + TS`      |
 | @feat     | A new feature                                          | `@feat: add user login functionality`                          |
 | @fix      | A bug fix                                              | `@fix: resolve null pointer in auth middleware`                |
 | @style    | Code formatting, no logic changes                      | `@style: format code with Prettier`                            |
